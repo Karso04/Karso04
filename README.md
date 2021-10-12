@@ -1,7 +1,9 @@
 ### Hey 👋
 
 -I’m currently working on toggles for my mods!
+
 -I’m currently learning C++
+
 -Discord: Karso04#0004
 - My Mods:
 - [Extra Speedy Squirrel](https://github.com/Karso04/Extra-Speedy-Squirrel)
