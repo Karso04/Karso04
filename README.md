@@ -1,13 +1,12 @@
 ### Hey 👋
 
--I’m currently working on toggles for my mods!
+-Discord: <b>Karso04#0004</b>
 
--I’m currently learning C++
-
--Discord: Karso04#0004
-- My Mods:
+- <b>My Mods:</b>
 - [Extra Speedy Squirrel](https://github.com/Karso04/Extra-Speedy-Squirrel)
 - [Smooth Squirrel](https://github.com/Karso04/SmoothSquirrel)
 - [TallSquirrel](https://github.com/Karso04/TallSquirrel)
-- [Gorilla Tag Modding Server](discord.gg/monkemod)
-- [Flying Squirrel Chase Modding Server](discord.gg/uvKC7muxp2)
+
+- <b>Modding servers:</b>
+- [Gorilla Tag Modding Server](https://discord.gg/monkemod)
+- [Flying Squirrel Chase Modding Server](https://discord.gg/uvKC7muxp2)
