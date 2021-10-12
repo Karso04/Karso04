@@ -3,6 +3,7 @@
 -Discord: <b>Karso04#0004</b>
 
 - <b>My Mods:</b>
+- [Flying Squirrel](https://github.com/Karso04/FlyingSquirrel)
 - [Extra Speedy Squirrel](https://github.com/Karso04/Extra-Speedy-Squirrel)
 - [Smooth Squirrel](https://github.com/Karso04/SmoothSquirrel)
 - [TallSquirrel](https://github.com/Karso04/TallSquirrel)
