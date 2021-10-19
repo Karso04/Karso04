@@ -10,7 +10,7 @@
 
 [<b>Flying Squirrel Chase Modding</b>](https://discord.gg/uvKC7muxp2)
 
-<h4>If you would like to contact me, message me on discord:<b>Karso04#0004</b></h4>
+<h4>If you would like to contact me, message me on discord:<b> Karso04#0004</b></h4>
            
 <h2>Languages im learning:</h2>
 
