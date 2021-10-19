@@ -6,7 +6,7 @@
 
 <h1>Join these modding discords!</h1>
 
-[<b>Flying Squirrel Chase Modding</b>](https://discord.gg/uvKC7muxp2)
+[<b>Gorilla Tag Modding</b>](https://discord.gg/monkemod)
 
 [<b>Flying Squirrel Chase Modding</b>](https://discord.gg/uvKC7muxp2)
 
