@@ -1,5 +1,3 @@
-### Hey 👋
-
 -Discord: <b>Karso04#0004</b>
 
 - <b>My Mods:</b>
